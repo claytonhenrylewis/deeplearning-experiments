@@ -1,0 +1,5 @@
+numpy==1.11.0
+scipy==0.18.1
+scikit_image==0.12.3
+tflearn==0.2.1
+scikit_learn==0.18.1
